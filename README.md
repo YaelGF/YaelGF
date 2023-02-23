@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yaelgarciaf" target="blank"><img src="https://img.shields.io/twitter/follow/yaelgarciaf?logo=twitter&style=for-the-badge" alt="yaelgarciaf" /></a> </p>
 
-- 🌱 I’m currently learning **Dart for Flutter, Python for flask and C# for .Net in courses on udemy**
+- 🌱 I’m currently learning **Dart for Flutter, Python for flask, and C# for .Net on udemy courses**
 
 - 📫 How to reach me **yaelgarciafranco@gmail.com**
 
