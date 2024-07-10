@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yael Garcia Franco</h1>
 <h3 align="center">A passionate Backend developer</h3>
+<a href="https://yaelgf.github.io/PortfolioOfEvidence/" target="blank"> CV </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaelgf&label=Profile%20views&color=0e75b6&style=flat" alt="yaelgf" /> </p>
 
